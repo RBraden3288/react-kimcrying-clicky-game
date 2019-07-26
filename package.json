@@ -9,7 +9,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -30,7 +30,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://RBraden3288.github.io/",
+  "homepage": "https://rbraden3288.github.io/react-clicky-game/",
   "devDependencies": {
     "gh-pages": "^2.0.1"
   }
