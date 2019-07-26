@@ -1,9 +1,3 @@
-body {
-    background-image: url("./assets/images/kimcrybg.jpg"); 
-    background-position: left;
-    background-size: auto;
-}
-
 .nav {
     background-color: azure;
     margin: 5px 0px;
@@ -17,9 +11,4 @@ body {
 
 .btn-info {
     margin: 0px 50px 0px 0px;
-}
-
-
-.jumbotron {
-    text-align: center;
 }
