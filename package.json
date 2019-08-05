@@ -2,6 +2,7 @@
   "name": "react-memory-clicky-game",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Rbraden3288.github.io/react-kimcrying-clicky-game/",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -32,6 +33,6 @@
   },
   "homepage": "https://rbraden3288.github.io/react-clicky-game/",
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.1.0"
   }
 }
