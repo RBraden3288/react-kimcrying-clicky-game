@@ -5,12 +5,15 @@ body {
 }
 
 .nav {
-    background-color: azure;
+    background-color:  rgb(136, 188, 205, .9);
     margin: 5px 0px;
-    padding: 5px;
+    padding: 10px;
+    /* border: 1px solid #000000; */
+    box-shadow: 2px 2px 2px;
 }
 
 .btn {
+    background-color: rgb(136, 188, 205, .9);
     margin: 0px 15px; 
     position: left; 
 }
@@ -22,4 +25,20 @@ body {
 
 .jumbotron {
     text-align: center;
+    background: rgb(136, 188, 205, .9);
+    /* border: 1px solid #000000; */
+    margin: 5px 0px 10px;
+    box-shadow: 3px 3px 3px;
 }
+
+img {
+    width: 185px;
+    height: 185px;
+    border: 3px solid #88bccd;
+    margin: 10px;
+    float: left;
+    box-shadow: 2px 2px 2px;
+}
+
+
+
